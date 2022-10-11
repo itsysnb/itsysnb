@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @itsysnb
+- 👋 Hi, I’m Yasin Baghban.
 - 👀 I’m interested in Php & javascript ..
 - ✨ I'm currently working on php and laravel projects
-- 🌱 I’m currently learning Javascript Frameworks => React js, Vue js, React native
 - 💞️ I’m looking to collaborate on Php & laravel projects
 - 📫 How to reach me www.linkedin.com/in/yasin-baghban-037b241aa
 
