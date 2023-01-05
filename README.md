@@ -3,13 +3,11 @@
 
 - 🔭 I’m currently working on [nova-kudos](https://github.com/novaday-co/nova_kudos_laravel)
 
-- 🌱 I’m currently learning **laravel**
+- 🌱 I’m currently learning **php & laravel**
 
 - 💬 Ask me about **php & laravel**
 
-- 📫 How to reach me **www.linkedin.com/in/yasin-baghban-037b241aa**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: **www.linkedin.com/in/yasin-baghban-037b241aa**</h3>
 <p align="left">
 </p>
 
