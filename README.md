@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **php & laravel**
 
-<h3 align="left">Connect with me: **www.linkedin.com/in/yasin-baghban-037b241aa**</h3>
+<h3 align="left">Connect with me: www.linkedin.com/in/yasin-baghban-037b241aa</h3>
 <p align="left">
 </p>
 
